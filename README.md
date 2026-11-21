@@ -2,8 +2,6 @@
 
 Analyse statistique de **1 200 clients** d'une entreprise marocaine (18 variables) pour comprendre leurs dépenses, leurs canaux d'acquisition et ce qui les fait répondre à une campagne marketing.
 
-![Aperçu](images/apercu.png)
-
 ## Les questions
 - Combien dépensent les clients, et quels profils dépensent le plus ?
 - Quels canaux d'acquisition et quelles actions font le plus répondre aux campagnes ?
@@ -49,8 +47,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · SciPy (tests sta
 ## Structure
 ```
 ├── analyse_marketing.ipynb   # analyse complète
-├── clients_marketing.csv     # données
-├── images/                   # graphiques clés
+├── clients_marketing.csv     # données                   # graphiques clés
 └── README.md
 ```
 
