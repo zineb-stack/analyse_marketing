@@ -47,7 +47,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · SciPy (tests sta
 ## Structure
 ```
 ├── analyse_marketing.ipynb   # analyse complète
-├── clients_marketing.csv     # données                   # graphiques clés
+├── clients_marketing.csv     # données                   
 └── README.md
 ```
 
